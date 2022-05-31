@@ -1,0 +1,6 @@
+Nama: Aww
+Umur: 20
+Alamat: Jalan Awan
+Nama: a
+Umur: 12
+Alamat: jalan awan
